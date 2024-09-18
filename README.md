@@ -1,5 +1,3 @@
----
-
 ## Node.js Cron Job Boilerplate
 
 ### Overview
@@ -104,5 +102,3 @@ node-cron/
 - **Async Handling**: Use `async/await` or Promises for asynchronous code.
 - **Environment Variables**: Use `process.env` or packages like `dotenv`.
 - **Graceful Shutdown**: Handle signals to stop jobs properly.
-
----
